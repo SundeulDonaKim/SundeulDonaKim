@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=Fullstack🐭SundeulDonaKim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=Fullstack🐭SundeulDonaKim&fontSize=50)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SundeulDonaKim&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight)](https://github.com/SundeulDonaKim/)
 
 <br>
